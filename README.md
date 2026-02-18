@@ -12,6 +12,3 @@ Arybella Theul
 - Key terminology
 - Creating repositories
 - Making commits 
-
-# Live Demo 
-Intro to commits
